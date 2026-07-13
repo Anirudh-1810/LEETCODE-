@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0238-product-of-array-except-self) |
 | [0912-sort-an-array](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0912-sort-an-array) |
 ## Prefix Sum
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
@@ -51,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0912-sort-an-array) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
