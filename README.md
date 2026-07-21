@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0088-merge-sorted-array) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0189-rotate-array](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0238-product-of-array-except-self) |
 | [0905-sort-array-by-parity](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0905-sort-array-by-parity) |
@@ -80,11 +81,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0680-valid-palindrome-ii](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0680-valid-palindrome-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0053-maximum-subarray) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Number Theory
 |  |
 | ------- |
