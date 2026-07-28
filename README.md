@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2469-convert-the-temperature) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Anirudh-1810/LEETCODE-/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Greedy
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2413-smallest-even-multiple) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Anirudh-1810/LEETCODE-/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Stack
 |  |
 | ------- |
