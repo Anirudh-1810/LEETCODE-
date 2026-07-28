@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2396-strictly-palindromic-number](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2469-convert-the-temperature) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Greedy
 |  |
 | ------- |
