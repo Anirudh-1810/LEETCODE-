@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0136-single-number](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0238-product-of-array-except-self) |
 | [0905-sort-array-by-parity](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0905-sort-array-by-parity) |
@@ -128,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Anirudh-1810/LEETCODE-/tree/master/3760-maximum-substrings-with-distinct-start) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
