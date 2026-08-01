@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0912-sort-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Anirudh-1810/LEETCODE-/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3701-compute-alternating-sum](https://github.com/Anirudh-1810/LEETCODE-/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/Anirudh-1810/LEETCODE-/tree/master/3925-concatenate-array-with-reverse) |
 ## Prefix Sum
 |  |
@@ -144,5 +145,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [3701-compute-alternating-sum](https://github.com/Anirudh-1810/LEETCODE-/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/Anirudh-1810/LEETCODE-/tree/master/3925-concatenate-array-with-reverse) |
 <!---LeetCode Topics End-->
