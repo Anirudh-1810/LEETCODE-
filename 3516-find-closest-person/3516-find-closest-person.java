@@ -3,7 +3,7 @@ class Solution {
         int a=Math.abs(x-z);
         int b=Math.abs(y-z);
         if(a==b)return 0;
-        if(a>b)return 2;
+        else if(a>b)return 2;
         else return 1;
     }
 }
