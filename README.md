@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0486-predict-the-winner) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1486-xor-operation-in-an-array](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1486-xor-operation-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2119-a-number-after-a-double-reversal) |
 | [2396-strictly-palindromic-number](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2396-strictly-palindromic-number) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0136-single-number) |
+| [1486-xor-operation-in-an-array](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1486-xor-operation-in-an-array) |
 ## Simulation
 |  |
 | ------- |
