@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1486-xor-operation-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2119-a-number-after-a-double-reversal) |
+| [2235-add-two-integers](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2469-convert-the-temperature) |
