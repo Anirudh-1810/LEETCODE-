@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0238-product-of-array-except-self) |
 | [0486-predict-the-winner](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0486-predict-the-winner) |
+| [0881-boats-to-save-people](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0912-sort-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0189-rotate-array) |
 | [0680-valid-palindrome-ii](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0680-valid-palindrome-ii) |
+| [0881-boats-to-save-people](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0905-sort-array-by-parity) |
 | [1768-merge-strings-alternately](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1768-merge-strings-alternately) |
 | [2396-strictly-palindromic-number](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2396-strictly-palindromic-number) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0088-merge-sorted-array) |
+| [0881-boats-to-save-people](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0680-valid-palindrome-ii](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0680-valid-palindrome-ii) |
+| [0881-boats-to-save-people](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0881-boats-to-save-people) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -178,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0002-add-two-numbers) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
