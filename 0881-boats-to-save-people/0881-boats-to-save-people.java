@@ -8,9 +8,13 @@ class Solution {
             int sum=people[left]+people[right];
             if(sum<=limit){
                 left++;
+                boats++;
+                right--;
             }
-            boats++;
-            right--;
+            else{
+                boats++;
+                right--;
+            }
         }
         return boats;
 
