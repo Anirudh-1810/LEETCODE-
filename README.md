@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0486-predict-the-winner) |
 | [0881-boats-to-save-people](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0905-sort-array-by-parity) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0268-missing-number) |
 | [0881-boats-to-save-people](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0912-sort-an-array) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0012-integer-to-roman) |
 | [0172-factorial-trailing-zeroes](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0486-predict-the-winner) |
 | [1025-divisor-game](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1025-divisor-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0012-integer-to-roman) |
+| [0268-missing-number](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0268-missing-number) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Anirudh-1810/LEETCODE-/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Anirudh-1810/LEETCODE-/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3945-digit-frequency-score](https://github.com/Anirudh-1810/LEETCODE-/tree/master/3945-digit-frequency-score) |
@@ -206,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0268-missing-number) |
 | [1486-xor-operation-in-an-array](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1486-xor-operation-in-an-array) |
 ## Simulation
 |  |
@@ -239,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0268-missing-number) |
 ## Bubble Sort
 |  |
 | ------- |
