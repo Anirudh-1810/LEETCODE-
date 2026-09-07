@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0486-predict-the-winner) |
+| [0622-design-circular-queue](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0622-design-circular-queue) |
 | [0881-boats-to-save-people](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0912-sort-an-array) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0002-add-two-numbers) |
+| [0622-design-circular-queue](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0622-design-circular-queue) |
 ## Timsort
 |  |
 | ------- |
@@ -273,4 +275,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0020-valid-parentheses) |
+## Design
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0622-design-circular-queue) |
+## Queue
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
