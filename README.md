@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-convert-the-temperature](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2652-sum-multiples) |
+| [2729-check-if-the-number-is-fascinating](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Anirudh-1810/LEETCODE-/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0012-integer-to-roman) |
 | [0242-valid-anagram](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0268-missing-number) |
+| [2729-check-if-the-number-is-fascinating](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2729-check-if-the-number-is-fascinating) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Anirudh-1810/LEETCODE-/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Anirudh-1810/LEETCODE-/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3945-digit-frequency-score](https://github.com/Anirudh-1810/LEETCODE-/tree/master/3945-digit-frequency-score) |
