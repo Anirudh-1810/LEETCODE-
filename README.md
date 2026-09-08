@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0316-remove-duplicate-letters) |
+| [0649-dota2-senate](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0649-dota2-senate) |
 | [0657-robot-return-to-origin](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0709-to-lower-case) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0134-gas-station) |
 | [0316-remove-duplicate-letters](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0316-remove-duplicate-letters) |
+| [0649-dota2-senate](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0881-boats-to-save-people) |
 | [0984-string-without-aaa-or-bbb](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0984-string-without-aaa-or-bbb) |
@@ -286,4 +288,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0622-design-circular-queue) |
+| [0649-dota2-senate](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
