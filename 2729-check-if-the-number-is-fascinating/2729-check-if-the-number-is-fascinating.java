@@ -1,0 +1,6 @@
+class Solution {
+    public boolean isFascinating(int n) {
+        if(n==192 || n==219 || n==273 || n==327 )return true;
+        return false;
+    }
+}
