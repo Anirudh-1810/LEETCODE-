@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1768-merge-strings-alternately](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1768-merge-strings-alternately) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2810-faulty-keyboard](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2810-faulty-keyboard) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0012-integer-to-roman) |
 | [0242-valid-anagram](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0268-missing-number) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2729-check-if-the-number-is-fascinating) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Anirudh-1810/LEETCODE-/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Anirudh-1810/LEETCODE-/tree/master/3760-maximum-substrings-with-distinct-start) |
