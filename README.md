@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0912-sort-an-array) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1051-height-checker](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1051-height-checker) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0912-sort-an-array) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1051-height-checker](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1051-height-checker) |
 ## Heap (Priority Queue)
 |  |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0657-robot-return-to-origin) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1518-water-bottles](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1518-water-bottles) |
 | [1688-count-of-matches-in-tournament](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1688-count-of-matches-in-tournament) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -298,4 +301,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0622-design-circular-queue) |
 | [0649-dota2-senate](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0649-dota2-senate) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0950-reveal-cards-in-increasing-order) |
 <!---LeetCode Topics End-->
