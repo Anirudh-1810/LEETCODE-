@@ -1,6 +1,6 @@
 class Solution {
     public boolean checkIfPangram(String s) {
-        // if(s.length()<26)return false;
+        if(s.length()<26)return false;
         int[] freq =new int[26];
         for(int i =0;i<s.length();i++){
             char c = s.charAt(i);
