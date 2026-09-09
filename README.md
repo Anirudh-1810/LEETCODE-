@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1768-merge-strings-alternately) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2810-faulty-keyboard](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2810-faulty-keyboard) |
 | [3110-score-of-a-string](https://github.com/Anirudh-1810/LEETCODE-/tree/master/3110-score-of-a-string) |
 | [3340-check-balanced-string](https://github.com/Anirudh-1810/LEETCODE-/tree/master/3340-check-balanced-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Anirudh-1810/LEETCODE-/tree/master/3498-reverse-degree-of-a-string) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1688-count-of-matches-in-tournament) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2810-faulty-keyboard](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2810-faulty-keyboard) |
 | [3498-reverse-degree-of-a-string](https://github.com/Anirudh-1810/LEETCODE-/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/Anirudh-1810/LEETCODE-/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/Anirudh-1810/LEETCODE-/tree/master/3925-concatenate-array-with-reverse) |
