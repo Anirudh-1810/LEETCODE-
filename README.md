@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0912-sort-an-array) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1051-height-checker](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1051-height-checker) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Tree
 |  |
 | ------- |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-reveal-cards-in-increasing-order](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1518-water-bottles](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1518-water-bottles) |
 | [1688-count-of-matches-in-tournament](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1688-count-of-matches-in-tournament) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2810-faulty-keyboard](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2810-faulty-keyboard) |
@@ -302,4 +305,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0622-design-circular-queue) |
 | [0649-dota2-senate](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0649-dota2-senate) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
