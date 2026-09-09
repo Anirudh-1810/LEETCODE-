@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1768-merge-strings-alternately](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1768-merge-strings-alternately) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2810-faulty-keyboard](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2810-faulty-keyboard) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1486-xor-operation-in-an-array) |
 | [1518-water-bottles](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1518-water-bottles) |
 | [1688-count-of-matches-in-tournament](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1688-count-of-matches-in-tournament) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2235-add-two-integers) |
