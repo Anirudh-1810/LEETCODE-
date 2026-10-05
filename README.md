@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0139-word-break) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0238-product-of-array-except-self) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0316-remove-duplicate-letters) |
 | [0649-dota2-senate](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0649-dota2-senate) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0139-word-break) |
 | [0486-predict-the-winner](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0486-predict-the-winner) |
 | [1025-divisor-game](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1025-divisor-game) |
 ## Number Theory
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0012-integer-to-roman) |
+| [0139-word-break](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0268-missing-number) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -318,4 +322,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0836-rectangle-overlap) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
