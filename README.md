@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-valid-mountain-array](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0941-valid-mountain-array) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1051-height-checker](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1051-height-checker) |
+| [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
