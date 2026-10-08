@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Anirudh-1810/LEETCODE-/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Anirudh-1810/LEETCODE-/tree/master/3875-construct-uniform-parity-array-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/Anirudh-1810/LEETCODE-/tree/master/3925-concatenate-array-with-reverse) |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/Anirudh-1810/LEETCODE-/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3870-count-commas-in-range](https://github.com/Anirudh-1810/LEETCODE-/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Anirudh-1810/LEETCODE-/tree/master/3875-construct-uniform-parity-array-i) |
 | [3945-digit-frequency-score](https://github.com/Anirudh-1810/LEETCODE-/tree/master/3945-digit-frequency-score) |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/Anirudh-1810/LEETCODE-/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Greedy
 |  |
 | ------- |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2413-smallest-even-multiple) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Anirudh-1810/LEETCODE-/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/Anirudh-1810/LEETCODE-/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Stack
 |  |
 | ------- |
@@ -361,4 +364,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0139-word-break) |
+## Enumeration
+|  |
+| ------- |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/Anirudh-1810/LEETCODE-/tree/master/4010-maximize-pair-strength-using-gcd) |
 <!---LeetCode Topics End-->
