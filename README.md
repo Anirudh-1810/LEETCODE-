@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Anirudh-1810/LEETCODE-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3701-compute-alternating-sum](https://github.com/Anirudh-1810/LEETCODE-/tree/master/3701-compute-alternating-sum) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Anirudh-1810/LEETCODE-/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3833-count-dominant-indices](https://github.com/Anirudh-1810/LEETCODE-/tree/master/3833-count-dominant-indices) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Anirudh-1810/LEETCODE-/tree/master/3875-construct-uniform-parity-array-i) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/Anirudh-1810/LEETCODE-/tree/master/3880-minimum-absolute-difference-between-two-values) |
 | [3925-concatenate-array-with-reverse](https://github.com/Anirudh-1810/LEETCODE-/tree/master/3925-concatenate-array-with-reverse) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1534-count-good-triplets](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1534-count-good-triplets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3833-count-dominant-indices](https://github.com/Anirudh-1810/LEETCODE-/tree/master/3833-count-dominant-indices) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/Anirudh-1810/LEETCODE-/tree/master/3880-minimum-absolute-difference-between-two-values) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/Anirudh-1810/LEETCODE-/tree/master/4010-maximize-pair-strength-using-gcd) |
 <!---LeetCode Topics End-->
