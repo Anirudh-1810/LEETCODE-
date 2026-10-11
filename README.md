@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2367-number-of-arithmetic-triplets](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2367-number-of-arithmetic-triplets) |
 | [2574-left-and-right-sum-differences](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2574-left-and-right-sum-differences) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0905-sort-array-by-parity) |
 | [1768-merge-strings-alternately](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1768-merge-strings-alternately) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2367-number-of-arithmetic-triplets](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2367-number-of-arithmetic-triplets) |
 | [2396-strictly-palindromic-number](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2396-strictly-palindromic-number) |
 | [3794-reverse-string-prefix](https://github.com/Anirudh-1810/LEETCODE-/tree/master/3794-reverse-string-prefix) |
 ## String
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0268-missing-number) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2367-number-of-arithmetic-triplets](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2367-number-of-arithmetic-triplets) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2729-check-if-the-number-is-fascinating) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Anirudh-1810/LEETCODE-/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Anirudh-1810/LEETCODE-/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -379,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1534-count-good-triplets](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1534-count-good-triplets) |
+| [2367-number-of-arithmetic-triplets](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2367-number-of-arithmetic-triplets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2951-find-the-peaks](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2951-find-the-peaks) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Anirudh-1810/LEETCODE-/tree/master/3745-maximize-expression-of-three-elements) |
