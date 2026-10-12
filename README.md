@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2798-number-of-employees-who-met-the-target](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2951-find-the-peaks](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2951-find-the-peaks) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Anirudh-1810/LEETCODE-/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Anirudh-1810/LEETCODE-/tree/master/3074-apple-redistribution-into-boxes) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Anirudh-1810/LEETCODE-/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Anirudh-1810/LEETCODE-/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Anirudh-1810/LEETCODE-/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2733-neither-minimum-nor-maximum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Anirudh-1810/LEETCODE-/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Anirudh-1810/LEETCODE-/tree/master/3074-apple-redistribution-into-boxes) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Anirudh-1810/LEETCODE-/tree/master/3745-maximize-expression-of-three-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Anirudh-1810/LEETCODE-/tree/master/3074-apple-redistribution-into-boxes) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Anirudh-1810/LEETCODE-/tree/master/3745-maximize-expression-of-three-elements) |
 ## Dynamic Programming
 |  |
