@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-number-of-arithmetic-triplets](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2367-number-of-arithmetic-triplets) |
 | [2574-left-and-right-sum-differences](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2574-left-and-right-sum-differences) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [2733-neither-minimum-nor-maximum](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2733-neither-minimum-nor-maximum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2951-find-the-peaks](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2951-find-the-peaks) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1051-height-checker) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2733-neither-minimum-nor-maximum](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2733-neither-minimum-nor-maximum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Anirudh-1810/LEETCODE-/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Anirudh-1810/LEETCODE-/tree/master/3745-maximize-expression-of-three-elements) |
 ## Heap (Priority Queue)
