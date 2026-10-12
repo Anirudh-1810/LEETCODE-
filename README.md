@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1534-count-good-triplets](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1534-count-good-triplets) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1920-build-array-from-permutation](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1920-build-array-from-permutation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1995-count-special-quadruplets](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1995-count-special-quadruplets) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1688-count-of-matches-in-tournament) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1920-build-array-from-permutation](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2180-count-integers-with-even-digit-sum) |
