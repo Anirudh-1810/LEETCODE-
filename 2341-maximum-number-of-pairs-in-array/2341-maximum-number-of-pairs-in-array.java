@@ -1,18 +1,17 @@
 class Solution {
     public int[] numberOfPairs(int[] nums) {
-        Arrays.sort(nums);
+        int[] freq = new int[101];
         int pairs = 0;
-        for(int i = 1; i < nums.length; i++) {
-            // Check pair
-            if(nums[i] == nums[i-1]) {
-                pairs++;
-                // We need to skip one element if we have a pair
-                // since we already "removed" it.
-                i++;
-            }
+        for (int num : nums) {
+            freq[num]++;
         }
-        // Remaining length is original length, minus the amount of pairs*2
-        // Because each pair removes 2 nums.
-        return new int[]{pairs, nums.length-(pairs*2)};
+
+        for (int i = 0; i <= 100; i++) {
+            pairs += freq[i] / 2;
+        }
+
+        int leftover = nums.length - pairs * 2;
+
+        return new int[]{pairs, leftover};
     }
 }
