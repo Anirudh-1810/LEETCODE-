@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0486-predict-the-winner) |
 | [0622-design-circular-queue](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0622-design-circular-queue) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0821-shortest-distance-to-a-character](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0821-shortest-distance-to-a-character) |
 | [0881-boats-to-save-people](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0905-sort-array-by-parity) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0268-missing-number) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0881-boats-to-save-people](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0912-sort-an-array) |
