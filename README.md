@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1768-merge-strings-alternately) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1051-height-checker) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1512-number-of-good-pairs](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1512-number-of-good-pairs) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0268-missing-number) |
 | [1512-number-of-good-pairs](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1995-count-special-quadruplets](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1995-count-special-quadruplets) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -436,4 +439,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1913-maximum-product-difference-between-two-pairs) |
+## Sliding Window
+|  |
+| ------- |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->
