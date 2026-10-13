@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2951-find-the-peaks](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2951-find-the-peaks) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Anirudh-1810/LEETCODE-/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Anirudh-1810/LEETCODE-/tree/master/3074-apple-redistribution-into-boxes) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Anirudh-1810/LEETCODE-/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Anirudh-1810/LEETCODE-/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Anirudh-1810/LEETCODE-/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3467-transform-array-by-parity](https://github.com/Anirudh-1810/LEETCODE-/tree/master/3467-transform-array-by-parity) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Anirudh-1810/LEETCODE-/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3467-transform-array-by-parity](https://github.com/Anirudh-1810/LEETCODE-/tree/master/3467-transform-array-by-parity) |
 ## Math
 |  |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2367-number-of-arithmetic-triplets) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2729-check-if-the-number-is-fascinating) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Anirudh-1810/LEETCODE-/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Anirudh-1810/LEETCODE-/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Anirudh-1810/LEETCODE-/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Anirudh-1810/LEETCODE-/tree/master/3760-maximum-substrings-with-distinct-start) |
