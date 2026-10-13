@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1920-build-array-from-permutation](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1920-build-array-from-permutation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-reveal-cards-in-increasing-order](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1051-height-checker](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1051-height-checker) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -430,4 +432,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3833-count-dominant-indices](https://github.com/Anirudh-1810/LEETCODE-/tree/master/3833-count-dominant-indices) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/Anirudh-1810/LEETCODE-/tree/master/3880-minimum-absolute-difference-between-two-values) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/Anirudh-1810/LEETCODE-/tree/master/4010-maximize-pair-strength-using-gcd) |
+## Quicksort
+|  |
+| ------- |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1913-maximum-product-difference-between-two-pairs) |
 <!---LeetCode Topics End-->
