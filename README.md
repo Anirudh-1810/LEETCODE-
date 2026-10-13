@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-reveal-cards-in-increasing-order](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1051-height-checker](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1051-height-checker) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1512-number-of-good-pairs](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1512-number-of-good-pairs) |
 | [1534-count-good-triplets](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1534-count-good-triplets) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0912-sort-an-array) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1051-height-checker](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1051-height-checker) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
