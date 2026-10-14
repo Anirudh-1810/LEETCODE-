@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0139-word-break) |
+| [0171-excel-sheet-column-number](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0344-reverse-string) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0012-integer-to-roman) |
+| [0171-excel-sheet-column-number](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0268-missing-number) |
