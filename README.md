@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3467-transform-array-by-parity](https://github.com/Anirudh-1810/LEETCODE-/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Anirudh-1810/LEETCODE-/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Anirudh-1810/LEETCODE-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3668-restore-finishing-order](https://github.com/Anirudh-1810/LEETCODE-/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/Anirudh-1810/LEETCODE-/tree/master/3701-compute-alternating-sum) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Anirudh-1810/LEETCODE-/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Anirudh-1810/LEETCODE-/tree/master/3745-maximize-expression-of-three-elements) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2729-check-if-the-number-is-fascinating](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2729-check-if-the-number-is-fascinating) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Anirudh-1810/LEETCODE-/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Anirudh-1810/LEETCODE-/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3668-restore-finishing-order](https://github.com/Anirudh-1810/LEETCODE-/tree/master/3668-restore-finishing-order) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Anirudh-1810/LEETCODE-/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Anirudh-1810/LEETCODE-/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3945-digit-frequency-score](https://github.com/Anirudh-1810/LEETCODE-/tree/master/3945-digit-frequency-score) |
