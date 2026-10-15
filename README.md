@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2810-faulty-keyboard](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2810-faulty-keyboard) |
 | [3110-score-of-a-string](https://github.com/Anirudh-1810/LEETCODE-/tree/master/3110-score-of-a-string) |
+| [3136-valid-word](https://github.com/Anirudh-1810/LEETCODE-/tree/master/3136-valid-word) |
 | [3340-check-balanced-string](https://github.com/Anirudh-1810/LEETCODE-/tree/master/3340-check-balanced-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Anirudh-1810/LEETCODE-/tree/master/3498-reverse-degree-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Anirudh-1810/LEETCODE-/tree/master/3760-maximum-substrings-with-distinct-start) |
