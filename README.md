@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-reveal-cards-in-increasing-order](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1051-height-checker](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1051-height-checker) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
+| [1480-running-sum-of-1d-array](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1512-number-of-good-pairs](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1512-number-of-good-pairs) |
 | [1534-count-good-triplets](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1534-count-good-triplets) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Anirudh-1810/LEETCODE-/tree/master/0238-product-of-array-except-self) |
+| [1480-running-sum-of-1d-array](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1480-running-sum-of-1d-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2574-left-and-right-sum-differences) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 ## Two Pointers
