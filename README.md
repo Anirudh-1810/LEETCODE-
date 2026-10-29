@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2574-left-and-right-sum-differences](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2574-left-and-right-sum-differences) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [2706-buy-two-chocolates](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2733-neither-minimum-nor-maximum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2706-buy-two-chocolates](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2733-neither-minimum-nor-maximum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Anirudh-1810/LEETCODE-/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Anirudh-1810/LEETCODE-/tree/master/3074-apple-redistribution-into-boxes) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2706-buy-two-chocolates](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2706-buy-two-chocolates) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Anirudh-1810/LEETCODE-/tree/master/3074-apple-redistribution-into-boxes) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Anirudh-1810/LEETCODE-/tree/master/3745-maximize-expression-of-three-elements) |
 ## Dynamic Programming
