@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Anirudh-1810/LEETCODE-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [2716-minimize-string-length](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2716-minimize-string-length) |
 | [2810-faulty-keyboard](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2810-faulty-keyboard) |
 | [3110-score-of-a-string](https://github.com/Anirudh-1810/LEETCODE-/tree/master/3110-score-of-a-string) |
 | [3136-valid-word](https://github.com/Anirudh-1810/LEETCODE-/tree/master/3136-valid-word) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2367-number-of-arithmetic-triplets) |
+| [2716-minimize-string-length](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2716-minimize-string-length) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/Anirudh-1810/LEETCODE-/tree/master/2729-check-if-the-number-is-fascinating) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Anirudh-1810/LEETCODE-/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Anirudh-1810/LEETCODE-/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
